@@ -49,7 +49,7 @@ button:focus {
 }
 
 circle {
-  stroke: #fcf806;
+  stroke: #f1f09e;
   fill: none;
   transition: 0.3s;
 }
@@ -172,19 +172,19 @@ circle {
 }
 
 .slide1 {
-  background-image: url("https://images.unsplash.com/photo-1549468057-5b7fa1a41d7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80");
+  background-image: url("../assets/img-1.png");
 }
 
 .slide2 {
-  background-image: url("https://images.unsplash.com/photo-1491497895121-1334fc14d8c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80");
+  background-image: url("../assets/img2.jpeg");
 }
 
 .slide3 {
-  background-image: url("https://images.unsplash.com/photo-1596337323475-d2bf40338c8a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80");
+  background-image: url("../assets/img-3");
 }
 
 .slide4 {
-  background-image: url("https://images.unsplash.com/photo-1617824077840-0d7a0cd13448?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80");
+  background-image: url("../assets/img-4.jpeg");
 }
 
 .slider {
@@ -200,7 +200,6 @@ circle {
   position: absolute;
   background-position: center;
   background-size: cover;
-  color: #8f0404;
   font-size: 62px;
   padding-top: 138px;
   font-weight: 800;
